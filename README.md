@@ -9,10 +9,27 @@ https://nextjs.org/docs/getting-started/installation
 https://nextjs.org/docs/getting-started/react-essentials
 https://nextjs.org/docs/app/building-your-application
 
-Graphql Apollo Setup:
+Graphql Apollo Client Setup:
 `npm install @apollo/client graphql`
 https://www.apollographql.com/blog/apollo-client/next-js/next-js-getting-started/
 https://www.apollographql.com/tutorials/
+
+Graphql Apollo Server Setup:
+`npm install apollo-server graphql --save`
+
+TypeScript Setup: (optional)
+install typescript
+`npm install typescript ts-node @types/node --save-dev`
+
+initialize TypeScript
+`npx tsc --init`
+
+Prisma Setup:
+install the Prisma CLI as a development dependency in the project
+`npm install prisma --save-dev`
+
+set up Prisma with the init command of the Prisma CLI
+`npx prisma init --datasource-provider sqlite`
 
 MDX Setup:
 `npm install @next/mdx @mdx-js/loader @mdx-js/react`
