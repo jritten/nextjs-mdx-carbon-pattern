@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Steps to Build this Project
 
 Next.js Setup:  
-`npx create-next-app@latest`  
+`npx create-next-app@latest <APP-NAME>`  
 https://nextjs.org/learn/foundations/about-nextjs  
 https://nextjs.org/docs/getting-started/installation  
 https://nextjs.org/docs/getting-started/react-essentials  
