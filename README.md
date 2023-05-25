@@ -9,37 +9,37 @@ https://nextjs.org/docs/getting-started/installation
 https://nextjs.org/docs/getting-started/react-essentials  
 https://nextjs.org/docs/app/building-your-application  
 
-Graphql Apollo Client Setup:
-`npm install @apollo/client graphql`
-https://www.apollographql.com/blog/apollo-client/next-js/next-js-getting-started/
-https://www.apollographql.com/tutorials/
+Graphql Apollo Client Setup:  
+`npm install @apollo/client graphql`  
+https://www.apollographql.com/blog/apollo-client/next-js/next-js-getting-started/  
+https://www.apollographql.com/tutorials/  
 
-Graphql Apollo Server Setup:
-`npm install apollo-server graphql --save`
+Graphql Apollo Server Setup:  
+`npm install apollo-server graphql --save`  
 
-TypeScript Setup: (optional)
-install typescript
-`npm install typescript ts-node @types/node --save-dev`
+TypeScript Setup: (optional)  
+install typescript  
+`npm install typescript ts-node @types/node --save-dev`  
 
-initialize TypeScript
-`npx tsc --init`
+initialize TypeScript  
+`npx tsc --init`  
 
-Prisma Setup:
-install the Prisma CLI as a development dependency in the project
-`npm install prisma --save-dev`
+Prisma Setup:  
+install the Prisma CLI as a development dependency in the project  
+`npm install prisma --save-dev`  
 
-set up Prisma with the init command of the Prisma CLI
-`npx prisma init --datasource-provider sqlite`
+set up Prisma with the init command of the Prisma CLI  
+`npx prisma init --datasource-provider sqlite`  
 
-MDX Setup:
-`npm install @next/mdx @mdx-js/loader @mdx-js/react`
-https://nextjs.org/docs/pages/building-your-application/configuring/mdx
+MDX Setup:  
+`npm install @next/mdx @mdx-js/loader @mdx-js/react`  
+https://nextjs.org/docs/pages/building-your-application/configuring/mdx  
 
-Carbon Setup:
-`npm install --save @carbon/react`
+Carbon Setup:  
+`npm install --save @carbon/react`  
 
-RMDX Set Up (may need to npm update first):
-`npm i @carbon-platform/rmdx`
+RMDX Set Up (may need to npm update first):  
+`npm i @carbon-platform/rmdx`  
 
 ## Getting Started
 
