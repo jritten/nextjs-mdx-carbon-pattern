@@ -18,7 +18,7 @@ Graphql Apollo Server Setup:
 `npm install apollo-server graphql --save`  
 
 TypeScript Setup: (optional)  
-install typescript  
+install Typescript  
 `npm install typescript ts-node @types/node --save-dev`  
 
 initialize TypeScript  
@@ -30,6 +30,12 @@ install the Prisma CLI as a development dependency in the project
 
 set up Prisma with the init command of the Prisma CLI  
 `npx prisma init --datasource-provider sqlite`  
+
+MongoDB Setup:  
+add MongoDB as a dependency  
+`npm install mongodb`  
+https://www.mongodb.com/languages/javascript/mongodb-and-npm-tutorial  
+https://www.mongodb.com/developer/languages/javascript/nextjs-with-mongodb/  
 
 MDX Setup:  
 `npm install @next/mdx @mdx-js/loader @mdx-js/react`  
