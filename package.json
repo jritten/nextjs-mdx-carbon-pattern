@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@apollo/client": "^3.7.14",
+    "@apollo/client": "^3.7.17",
     "@apollo/server": "^4.7.5",
     "@carbon-platform/rmdx": "^1.1.5",
     "@carbon/react": "^1.29.1",
