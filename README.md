@@ -47,11 +47,12 @@ Carbon Setup:
 RMDX Set Up (may need to npm update first):  
 `npm i @carbon-platform/rmdx`  
 
-Carbon for IBM.com Web Components Setup:  
-`npm install -S @carbon/ibmdotcom-web-components`
-
-Carbon for IBM.com React Wrapper Setup:  
-`npm install -S @carbon/ibmdotcom-web-components`
+Carbon for IBM.com Web Components/React Wrapper Setup:  
+`npm install -S @carbon/ibmdotcom-web-components`  
+https://www.ibm.com/standards/carbon/developing/frameworks/web-components  
+https://www.ibm.com/standards/carbon/developing/frameworks/react-wrapper  
+https://github.com/carbon-design-system/carbon-for-ibm-dotcom-nextjs-template  
+https://github.com/carbon-design-system/carbon-for-ibm-dotcom-nextjs-test  
 
 ## Getting Started
 
