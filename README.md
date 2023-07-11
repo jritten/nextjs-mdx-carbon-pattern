@@ -16,6 +16,7 @@ https://www.apollographql.com/tutorials/
 
 Graphql Apollo Server Setup:  
 `npm install apollo-server graphql --save`  
+`npm install @apollo/server`  
 
 TypeScript Setup: (optional)  
 install Typescript  
